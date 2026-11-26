@@ -1,0 +1,10 @@
+# compiled output
+out/
+*.class
+# your personal save file
+portfolio_data.txt
+# IDE files
+.idea/
+.vscode/
+*.iml
+.DS_Store
